@@ -21,7 +21,7 @@ import java.util.List;
 public class AllConfig {
     public static final String VxAppId = "wx2df75d41f0117a23";
     public static final String VxAppSecret = "b27885d42c7d10eb08ebe39504533696";
-    public static final String WeatherKey = "高德地图key";
+  
 
     //下列所有填写的  true 为开启， false 为不开启 ，#XXXXXX是颜色16进制HEX码（不知道颜色16进制HEX码可以百度）
     //系统开关
