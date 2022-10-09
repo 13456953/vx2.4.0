@@ -69,7 +69,7 @@ public class AllConfig {
         //  注意：日期里面的数字，填正常的数字就行了.比如1就是1，不要填01
         //  注意：每个用户信息的最后一项不需要加逗号！！！
         userList.add(getUser(
-                "om2oI6A_TXQqwKB06EavEffhGtlI", //扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "om2oI6O21N5pm_zLurXeH9W6eV5c", //扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "9OGQR23vZz1qK5xshTxCu37g9U-nLbsthqoFu5jv_kk", //要给这个人发送的模板ID
                 "翔总", //咋称呼这个人
                 "河南省安阳市林州市临淇镇", //这个人的详细地址
